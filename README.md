@@ -1,9 +1,7 @@
 # Tread Lightly
 Pixel lit image with heat sensor!
 
-![1000004196](https://github.com/user-attachments/assets/141b075d-389e-4174-a55d-4ebf873ea85b)
-
-
+![PXL_20241209_174320670](https://github.com/user-attachments/assets/4473a2d3-aca2-4a3c-9046-4fbda7ad20b4)
 
 Tread Lightly on Indigenous land with respect for nature and awareness of our surroundings.
 
