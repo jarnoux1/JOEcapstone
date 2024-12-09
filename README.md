@@ -15,5 +15,4 @@ Tread Lightly on Indigenous land with respect for nature and awareness of our su
 * 3D printed shell for bread board, heat sensor, and pixels.
 * Online dashboard
 
-[https://www.hackster.io/dashboard/projects]
-
+https://www.hackster.io/joeseph-arnoux/tread-lightly-cf1e6c
